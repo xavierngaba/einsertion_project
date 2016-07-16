@@ -1,0 +1,17 @@
+{
+	"processing": "Chargement...",
+	"lengthMenu": "_MENU_ affichage",
+	"zeroRecords": "Aucun résultats trouvés!!!",
+	"info": "_START_ à  _END_ de  _TOTAL_ Résultats",
+	"infoEmpty": "0 à 0 de 0 résultats",
+	"infoFiltered": "(filtre de _MAX_  Résultats)",
+	"infoPostFix": "",
+	"search": "Recherche",
+	"url": "",
+	"paginate": {
+		"first":    "debut",
+		"previous": "precédent",
+		"next":     "suivant",
+		"last":     "fin"
+	}
+}
