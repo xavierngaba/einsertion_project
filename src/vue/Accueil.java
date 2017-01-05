@@ -126,7 +126,7 @@ public class Accueil extends javax.swing.JFrame {
         jLabel1.setBackground(new java.awt.Color(0, 153, 0));
         jLabel1.setText("                     ");
 
-        jTable1.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jTable1.setBorder(new javax.swing.border.SoftBevelBorder(0));
         jTable1.setFont(new java.awt.Font("Perpetua Titling MT", 2, 11)); // NOI18N
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
@@ -161,6 +161,7 @@ public class Accueil extends javax.swing.JFrame {
                 {"Mozambique"},
                 {"Niger"},
                 {"Nigeria"},
+                {"Ouganda"},
                 {"RCA"},
                 {"RDC"},
                 {"Sao Tomé"},
